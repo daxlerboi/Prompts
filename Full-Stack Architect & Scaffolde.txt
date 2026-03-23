@@ -1,0 +1,28 @@
+## The Universal Prompt
+Copy and save this. Whenever you start a new project (Game Dev, ML, Web, etc.), paste this and fill in the bracketed info:
+
+"Act as a Senior Software Architect. I want to build a [Insert Project Name, e.g., 2D Platformer Game or ML Image Classifier].
+
+Please provide the following in order:
+
+The complete Folder Structure.
+
+Individual code blocks for each core file, explaining the logic.
+
+A single 'Project Scaffolding Script' in Python that, when run, will recreate this entire folder structure and inject all the provided code into the correct files.
+
+Set the root directory for the scaffolding script to [Insert Path, e.g., D:\MyNewProject].
+
+Ensure the code is production-ready, modular, and includes a requirements.txt or package.json where applicable."
+
+## Why this works for your specific goals:
+For Game Dev (Python/Pygame): It will generate your main.py, assets/ folder, and settings.py instantly on your D: drive.
+
+For Machine Learning: It will structure your data/, models/, and train.py scripts so you don't have to manually create them.
+
+For Automation: It ensures your drivers/, logs/, and scripts/ are organized from second one.
+
+## A Quick "Pro" Addition
+If you want the AI to also handle the environment setup, add this line to the end of the prompt:
+
+"Also include the terminal commands to initialize the virtual environment and install all dependencies for this specific project."
