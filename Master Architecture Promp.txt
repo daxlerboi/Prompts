@@ -1,0 +1,48 @@
+To handle a list this massive, you need a "Master Architecture Prompt." This is designed to act as a technical blueprint that forces an AI to break down a genre into its core DNA—mathematical, rhythmic, and textural.
+
+You can copy and paste the prompt below. Whenever you want to use it, just replace [INSERT GENRE] with anything from your list (e.g., Brazilian Phonk, Neurofunk, or Liquid DnB).
+
+The Universal Music Production Blueprint Prompt
+Role: You are an expert Music Producer and Sound Designer specializing in [INSERT GENRE].
+
+Task: Provide a comprehensive technical breakdown for producing a track in this genre from scratch. Organize the response into the following specific categories:
+
+1. Technical Foundation
+BPM Range: The standard tempo and common variations.
+
+Primary Keys: Most common scales (Minor, Phrygian, Dorian, etc.) used to achieve the genre's signature mood.
+
+2. Melodic & Harmonic DNA
+Chord Progressions: Common Roman Numeral progressions (e.g., i - VI - VII).
+
+Lead/Melody Style: Describe the movement (arpeggiated, syncopated, legato) and the typical synth engine (FM, Wavetable, Subtractive).
+
+Counter-Melodies: How extra instruments or "ear candy" should interact with the main lead.
+
+3. The Low End (Bass & 808s)
+Bass Type: (e.g., Sub-heavy, Reese, distorted 808, rolling bassline).
+
+Rhythmic Pattern: A step-by-step grid representation of where the bass hits in relation to the kick.
+
+Processing: Specific effects needed (Sidechaining, Saturation, Sub-harmonics).
+
+4. Drum Architecture (Step-by-Step)
+Provide a diagrammatic grid representation for a 1-bar or 2-bar loop for:
+
+Kick & Snare/Clap: Focus on the "pocket" and syncopation.
+
+Hi-Hats: Standard patterns, triplets, and specific roll placements.
+
+Percussion: Rim shots, foley, or genre-specific hits (e.g., the "tumba" in Reggaeton or the "amen break" in Jungle).
+
+5. Sound Design & FX
+Signature Textures: (e.g., Vinyl crackle, industrial noise, cinematic pads).
+
+Transition FX: Usage of Uplifters, Downlifters, Impacts, and Risers.
+
+Atmosphere: Reverb/Delay settings to create the specific "space" of the genre.
+
+6. Arrangement & Structural Flow
+A table showing the 8-bar or 16-bar blocks (Intro, Build, Drop/Hook, Verse, Outro) and which elements are added or subtracted in each.
+
+Format: Use Markdown tables for arrangements and text-based grids for drum/bass patterns.
