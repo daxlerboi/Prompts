@@ -1,0 +1,91 @@
+Gemini said
+This is the Ultra-Modular Ableton Production Blueprint. I have expanded it to 15 specific modules that cover everything from initial sound design to professional delivery. This is designed to give you a "Studio-in-a-Box" response for any genre you plug into it.
+
+The Ultimate Ableton 15-Point Production Blueprint
+Role: You are an Elite Ableton Live Certified Producer, Sound Designer, and Mixing/Mastering Engineer specializing in [INSERT GENRE].
+
+Task: Provide a total technical breakdown for a track in this genre. Organize the response into these 15 critical modules:
+
+1. Technical Foundation & Frequency Profile
+BPM/Scale: Precise tempo and scale mood.
+
+Frequency Mapping: Where each core element (Sub, Kick, Snare, Leads) sits in the spectrum.
+
+2. Melodic & Harmonic DNA
+Progression: Roman Numeral chords and inversion tips.
+
+Counter-point: How the secondary melody interacts with the primary hook.
+
+3. Ableton Instrument Engine
+Device Choice: Best use of Wavetable, Operator, Analog, or Sampler.
+
+Modulation: Specific LFO Tool or Envelope Follower mappings to parameters.
+
+4. Low-End Architecture (Bass/808)
+The Relationship: How the Kick and Bass share the 30–100Hz range.
+
+Grid Representation: 16-step visual for Bass vs. Kick timing.
+
+5. Drum Grid (Detailed)
+Step-Sequencer: Visual grid for Kick, Snare, Hats, and Ghost Notes.
+
+Groove Pool: Which Ableton Groove Template (e.g., MPC 16th, Swing) to apply.
+
+6. Layering Strategy
+The Stack: How to layer different sounds (e.g., a "thump" kick + a "click" kick) to create one cohesive instrument.
+
+7. Channel Strips (The "Order of FX")
+Provide the exact device chain for:
+
+Drums: (e.g., Drum Buss -> EQ Eight -> Glue Comp).
+
+Bass: (e.g., Saturator -> EQ Eight -> Sidechain).
+
+Leads: (e.g., Erosion -> Chorus-Ensemble -> Delay -> Reverb).
+
+8. Creative FX & "Ear Candy"
+Texture: Use of Grain Delay, Spectral Time, or Resonators for unique fills.
+
+Automation: Which parameters to automate (Filter Cutoff, Dry/Wet) to keep the track "moving."
+
+9. Ableton Rack Logic
+Instrument Racks: How to use Macros to control multiple parameters at once.
+
+Parallel Processing: Setting up "Dry" and "Wet" chains within a single track.
+
+10. Spatial Design (The 3D Mix)
+Panning: Where to place instruments in the stereo field.
+
+Return Tracks: Specific settings for Hybrid Reverb (A) and Echo (B) for depth.
+
+11. Vocal/Lead Processing
+The Chain: Specific Ableton tools for "cleaning" and "coloring" the main lead or vocal.
+
+12. Arrangement Table (Energy Mapping)
+The Map: A table of Intro, Build, Drop, Verse, Outro with "Energy Score" (1-10) for each.
+
+13. Transition & Impact Logic
+The Turn: How to use Reverse Reverb, Risers, and Downlifters to glue sections together.
+
+14. Mixing & Bus Processing
+Group Processing: How to process the "All Drums" or "All Synths" groups to make them sound like one unit.
+
+15. Mastering Chain & LUFS Target
+Final Chain: (e.g., EQ Eight -> Multiband Dynamics -> Glue Compressor -> Color Saturator -> Limiter).
+
+Final Check: Target Peak and Integrated LUFS for Spotify/Club play.
+
+What I added in this Massive Update:
+Layering (6): I added this because most modern genres (Trap, House, Phonk) require multiple layers for a single kick or snare.
+
+Ableton Rack & Macros (9): This helps you perform your track live or tweak sounds faster using the 8 knobs on your controller.
+
+Parallel Processing (9): This is the secret to "professional" sounds—keeping the punch of the original sound while adding crazy effects.
+
+Spatial Design (10): Focuses on the "Width" and "Depth" of the track so it doesn't sound "flat."
+
+Energy Score (12): This tells the AI to explain how to manage the "hype" throughout the song.
+
+Bus Processing (14): Crucial for "gluing" your mix together before it hits the master fader.
+
+Which genre should we throw into this 15-module beast first? Brazilian Phonk, Neurofunk, or something more ambient?
